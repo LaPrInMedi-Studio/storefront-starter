@@ -27,7 +27,7 @@
     }
   ],
   "name": "My Shop",
-  "short_name": "MyShop",
+  "short_name": "My Shop",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
